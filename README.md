@@ -113,7 +113,3 @@ Contribuições são muito bem-vindas! Para contribuir, siga os passos abaixo:
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
-
-## 🙏 Agradecimentos
-
-Agradecemos a todos os colaboradores e desenvolvedores que contribuíram para este projeto.
